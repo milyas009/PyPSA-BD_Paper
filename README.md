@@ -6,7 +6,6 @@ This repository presents the [PyPSA-Earth](https://github.com/pypsa-meets-earth/
 ## Key Features
 - **Localized Data**: Integration of official data from the Bangladesh Power Development Board (BPDB), Power Grid Bangladesh PLC (PGCB), and other relevant sources to accurately represent the current energy infrastructure.
 - **Scenario Analysis**: Develop and analyze multiple future scenarios, including 30% and 40% clean energy targets by 2030 and 2041, respectively, and a decarbonized scenario by 2050.
-- **Detailed Modeling**: Incorporation of regional demand profiles, investment costs, operational costs, and technical constraints specific to Bangladesh.
 - **Validation**: Model validation using 2019 data to ensure accuracy and reliability, considering disruptions in subsequent years due to the COVID-19 pandemic.
 
 ## Data Sources
@@ -15,3 +14,10 @@ This repository presents the [PyPSA-Earth](https://github.com/pypsa-meets-earth/
   3. IRENA 2019
   4. EnerData Country Statistics
   5. Our World in Data
+
+## How to Replicate the Model
+1. Follow the installation procedure given here - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth.git)
+2. Use the config files provided for different scenario
+3. Use custom power plant, cost, load data
+4. Set the scenario objectives
+5. Read the ]documents] (https://pypsa.readthedocs.io/en/latest/index.html) for customization of the model as required
