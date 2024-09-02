@@ -1,7 +1,7 @@
 # PyPSA-BD
 
 ## Overview
-This repository presents the [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth.git) application tailored to Bangladesh. The PyPSA-Earth model has been adapted with localized power plant data, cost parameters, and regional demand profiles to develop comprehensive scenarios for the future of the Bangladesh Power Sector. The model aims to assist strategic energy planning and policy development by simulating various decarbonization pathways.
+This repository presents the [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth.git) application tailored to Bangladesh. The PyPSA-Earth model has been adapted with localized power plant data, cost parameters, and regional demand profiles to develop comprehensive scenarios for the future of the Bangladesh Power Sector. The model aims to assist strategic energy planning and policy development by simulating various scenarios, including decarbonization pathways.
 
 ## Key Features
 - **Localized Data**: Integration of official data from the Bangladesh Power Development Board (BPDB), Power Grid Bangladesh PLC (PGCB), and other relevant sources to accurately represent the current energy infrastructure.
