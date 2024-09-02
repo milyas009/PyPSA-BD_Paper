@@ -20,4 +20,4 @@ This repository presents the [PyPSA-Earth](https://github.com/pypsa-meets-earth/
 2. Use the config files provided for different scenario
 3. Use custom power plant, cost, load data
 4. Set the scenario objectives
-5. Read the ]documents] (https://pypsa.readthedocs.io/en/latest/index.html) for customization of the model as required
+5. Read the [documents] (https://pypsa.readthedocs.io/en/latest/index.html) for customization of the model as required
